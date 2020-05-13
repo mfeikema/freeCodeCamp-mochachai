@@ -1,2 +1,4 @@
-# boilerplate-mochachai
-A boilerplate for the freeCodeCamp curriculum.
+FCC Test Challenge Prototype 
+============================
+
+QA with mocha & chai
